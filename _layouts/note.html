@@ -10,7 +10,7 @@
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
     p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
     p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.8px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.8px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.8px Times; color: #0000e9; -webkit-text-stroke: #0000e3}
     p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 9.7px Times; color: #000000; -webkit-text-stroke: #000000}
     p.p8 {margin: 0.0px 0.0px 9.7px 0.0px; font: 9.7px Times; color: #000000; -webkit-text-stroke: #000000}
     span.s1 {font-kerning: none}
@@ -18,7 +18,7 @@
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">--- layout: default ---</span></p>
+<p class="p1"><span class="s1">--- layout: default --- {{ content }}<span class="Apple-converted-space"> </span></span></p>
 <h1 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title }}</b></span></h1>
 <p class="p1"><span class="s1">{% if page.type != 'pages' %} Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }} {% endif %}<span class="Apple-converted-space"> </span></span></p>
 <p class="p1"><span class="s1">{{ content }}</span></p>
