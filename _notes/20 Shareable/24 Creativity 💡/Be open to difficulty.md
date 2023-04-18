@@ -1,7 +1,7 @@
 ---
-tags: 
+tags: find-your-artistic-voice letters-to-a-young-poet 
 created: 2022-08-20, 15:05
-modified: 2022-08-20, 18:56
+modified: 2023-04-17, 20:49
 ---
 
 # Be open to difficulty
@@ -17,6 +17,6 @@ Don't despair.
 
 ![[The logic of despair isn't for me —James Baldwin]]
 
-[^1]: [[Find Your Artistic Voice]] pg. 116 #find-your-artistic-voice 
-[^2]: [Laura Jane Grace On Gender Dysphoria and Family | The Therapist](https://www.youtube.com/watch?v=1bCzpjBHmE0)
-[^3]: [[Letters to a Young Poet]] pg. 51 #letters-to-a-young-poet 
+[^1]: [[Find Your Artistic Voice]] pg. 116 
+[^2]: [Laura Jane Grace On Gender Dysphoria and Family The Therapist](https://www.youtube.com/watch?v=1bCzpjBHmE0)
+[^3]: [[Letters to a Young Poet]] pg. 51 

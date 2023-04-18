@@ -1,7 +1,7 @@
 ---
 tags: 
 created: 2022-05-28, 10:28
-modified: 2022-05-28, 11:29
+modified: 2023-04-17, 20:33
 ---
 
 # Get bored to get creative
@@ -22,7 +22,7 @@ When I notice myself wanting to do something but not wanting to do any of the th
 Find ways to relax into boredom or the monotony of creative work.[^5] [[Take boredom as an invitation to rest]]. For me, that may be drinking tea, lighting incense, listening to music or a podcast. Alternatively, [[Take boredom as an invitation to try something new]].
 
 [^1]: [[Steal Like an Artist]] pg. 65
-[^2]: [Being Bored Can Be Good for You—If You Do It Right. Here’s How | Time](https://time.com/5480002/benefits-of-boredom/)
+[^2]: [Being Bored Can Be Good for You—If You Do It Right. Here’s How Time](https://time.com/5480002/benefits-of-boredom/)
 [^3]: [How boredom can spark creativity - BBC Culture](https://www.bbc.com/culture/article/20200522-how-boredom-can-spark-creativity)
-[^4]: [Everything About Niksen, The Dutch Concept of Doing Nothing | Time](https://time.com/5622094/what-is-niksen/)
+[^4]: [Everything About Niksen, The Dutch Concept of Doing Nothing Time](https://time.com/5622094/what-is-niksen/)
 [^5]: [[Find Your Artistic Voice]] pg. 96

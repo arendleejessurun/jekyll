@@ -13,7 +13,7 @@ Many artists who have near-death experiences end up coming out of it with new re
 
 Reading obituaries can be a memento more for us.[^2]
 
-![[Remembering that you are going to die - Steve Jobs]]
+![[Remembering that you are going to die —Steve Jobs]]
 
 [^1]: [[Show Your Work]] pg. 23
 [^2]: [[Show Your Work]] pg. 25-27

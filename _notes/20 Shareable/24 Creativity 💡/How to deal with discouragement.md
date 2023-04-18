@@ -1,7 +1,7 @@
 ---
 tags: creative-not-famous find-your-artistic-voice steal-like-an-artist 
 created: 2022-06-11, 14:08
-modified: 2023-02-18, 01:29
+modified: 2023-04-17, 20:36
 ---
 
 # How to deal with discouragement
@@ -27,11 +27,9 @@ If it's critical words you're dealing with, try one of the following:
 
 If you're worried you're not having success quick enough, remember [[The hazards of quick success]].
 
-https://every.to/p/how-to-process-negative-feedback?ref=refind
-
 [^1]: [[Creative, Not Famous—The Small Potato Manifesto]] pg. 116
 [^2]: [[Steal Like an Artist]] pg. 115
 [^3]: [[Creative, Not Famous—The Small Potato Manifesto]] pg. 129
 [^4]: [[Find Your Artistic Voice]] pg. 72
 [^5]: [[Creative, Not Famous—The Small Potato Manifesto]] pg. 124
-[^6]: https://mas.to/@jm_music/109787143623812490
+[^6]: [A toot from Joé McKen](https://mas.to/@jm_music/109787143623812490)

@@ -1,7 +1,7 @@
 ---
-tags: 
+tags: find-your-artistic-voice 
 created: 2022-07-08, 15:05
-modified: 2022-07-08, 16:30
+modified: 2023-04-17, 20:42
 ---
 
 # Edit your art later
@@ -11,6 +11,6 @@ Consider creating and editing at different times of day or on different days.[^2
 
 Corita Kent says, "Don't try to create and analyze at the same time. They're different processes."[^3]
 
-[^1]: [[Find Your Artistic Voice]] pg. 114 #find-your-artistic-voice 
+[^1]: [[Find Your Artistic Voice]] pg. 114
 [^2]: [5 Tricks to Never Run Out of Ideas Again](https://getpocket.com/explore/item/5-tricks-to-never-run-out-of-ideas-again?utm_source=pocket_mylist)
-[^3]: [10 Rules for Teachers and Students by John Cage and Corita Kent | Faena](https://www.faena.com/aleph/10-rules-for-teachers-and-students-by-john-cage-and-corita-kent)
+[^3]: [10 Rules for Teachers and Students by John Cage and Corita Kent Faena](https://www.faena.com/aleph/10-rules-for-teachers-and-students-by-john-cage-and-corita-kent)
