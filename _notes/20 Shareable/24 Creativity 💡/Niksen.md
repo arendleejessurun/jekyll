@@ -1,7 +1,7 @@
 ---
 tags: evergreen 
 created: 2021-09-25, 12:40
-modified: 2022-05-28, 10:50
+modified: 2023-04-18, 13:39
 ---
 
 # Niksen
@@ -28,7 +28,7 @@ What are my favorite ways of doing niksen?
 - Sitting outside
 - Listening to music
 
-[^1]: [Everything About Niksen, The Dutch Concept of Doing Nothing | Time](https://time.com/5622094/what-is-niksen/)
+[^1]: [Everything About Niksen, The Dutch Concept of Doing Nothing - Time](https://time.com/5622094/what-is-niksen/)
 [^2]: [The Case for Doing Nothing - The New York Times](https://www.nytimes.com/2019/04/29/smarter-living/the-case-for-doing-nothing.html?mc=contentTWdom&ad-keywords=auddevgate)
-[^3]: [Being Bored Can Be Good for You—If You Do It Right. Here’s How | Time](https://time.com/5480002/benefits-of-boredom/)
+[^3]: [Being Bored Can Be Good for You—If You Do It Right. Here’s How - Time](https://time.com/5480002/benefits-of-boredom/)
 [^4]: [The psychological importance of wasting time — Quartz](https://qz.com/970924/the-psychological-importance-of-wasting-time/)

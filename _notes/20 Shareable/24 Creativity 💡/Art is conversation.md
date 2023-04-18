@@ -1,7 +1,7 @@
 ---
 tags:
 created: 2022-03-12, 17:04
-modified: 2023-01-16, 18:00
+modified: 2023-04-17, 23:23
 ---
 
 # Art is conversation

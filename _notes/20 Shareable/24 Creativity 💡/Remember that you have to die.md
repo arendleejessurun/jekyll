@@ -9,7 +9,7 @@ Roger Ebert, after losing his voice, started writing a lot. Journalist Janet Mas
 
 Many artists who have near-death experiences end up coming out of it with new resolve to create.[^2] Find something that will remind you to live a good life while you can.
 
-![[What is it you plan to do - Mary Oliver]]
+![[What is it you plan to do —Mary Oliver]]
 
 Reading obituaries can be a memento more for us.[^2]
 

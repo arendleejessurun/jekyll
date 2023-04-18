@@ -1,7 +1,7 @@
 ---
 tags: 
 created: 2022-10-27, 22:03
-modified: 2023-03-30, 09:50
+modified: 2023-04-18, 13:38
 ---
 
 # Channel9
@@ -11,7 +11,7 @@ Doesn't alias very easily. Incredibly CPU efficient. This is great for some colo
 
 Chris says Neve is bassy and warm. Neve has the most extended top end, API a bit less, and SSL even less. The result with the slight boost before cutoff is that the SSL has some of that large-format console, hit record sparkle.[^1]
 
-The Teac and Mackie modes are designed to work well for soft-synths.[^1]
+The Teac and Mackie modes are designed to work well for soft-synths.[^1] They alias quite a bit more though.
 
 ## CPU
 0.1%
