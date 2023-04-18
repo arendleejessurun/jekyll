@@ -2,7 +2,7 @@
 tags: steal-like-an-artist 
 aliases: Little sabbaticals, Little sabbatical
 created: 2021-10-29, 15:15
-modified: 2022-12-26, 21:57
+modified: 2023-04-17, 23:11
 ---
 
 # Practice little sabbaticals
@@ -12,7 +12,7 @@ Notice the times when you're most productive and when your mind starts to shut o
 
 Taking little sabbaticals, even for just 30 minutes, is important for creativity and productivity.[^4] [[Living your life gives you something to write about]].
 
-[^1]: [How to Recover from Burnout | Psychology Today](https://www.psychologytoday.com/us/blog/the-playing-field/202101/how-recover-burnout?utm_source=pocket_mylist)
+[^1]: [How to Recover from Burnout Psychology Today](https://www.psychologytoday.com/us/blog/the-playing-field/202101/how-recover-burnout?utm_source=pocket_mylist)
 [^2]: [How to Recover From Burnout With 14 Exercises & Treatments](https://positivepsychology.com/how-to-recover-burnout/?utm_source=pocket_mylist)
 [^3]: [The Case for Doing Nothing - The New York Times](https://www.nytimes.com/2019/04/29/smarter-living/the-case-for-doing-nothing.html?mc=contentTWdom&ad-keywords=auddevgate)
 [^4]: [The seven types of rest: I spent a week trying them all. Could they help end my exhaustion?](https://www.theguardian.com/lifeandstyle/2021/nov/25/the-seven-types-of-rest-i-spent-a-week-trying-them-all-could-they-help-end-my-exhaustion?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
